@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+keras
+numpy
+pandas
+streamlit
+youtube-search-python
+pillow
