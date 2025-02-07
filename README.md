@@ -59,9 +59,3 @@ Add support for Spotify & Apple Music integration
 Implement mobile version for wider accessibility
 
 
-
-Happy songs playlist 🎵
-
-
-
-Soothing music 🎶
